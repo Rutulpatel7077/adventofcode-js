@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day5": "node -r esm ./day5/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutulpatel7077/adventofcode-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rutulpatel7077/adventofcode-js/issues"
+  },
+  "homepage": "https://github.com/Rutulpatel7077/adventofcode-js#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
